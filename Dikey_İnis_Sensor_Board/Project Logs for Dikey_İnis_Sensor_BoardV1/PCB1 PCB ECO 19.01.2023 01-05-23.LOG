@@ -1,0 +1,153 @@
+Add Component: Footprint Not Found CR2032
+Add Component: Footprint Not Found CAP_805
+Add Component: Footprint Not Found CAP_805
+Add Component: Footprint Not Found CAP_805
+Add Component: Footprint Not Found CAP_805
+Added Component: Designator=CON1(4 PIN 2.54MM)
+Add Component: Footprint Not Found DO214AA
+Added Component: Designator=D2(DIOM5226X240N)
+Added Component: Designator=IC1(SOT230P700X180-4N)
+Added Component: Designator=KLM1(5.08mm-2 pin)
+Add Component: Footprint Not Found Led 1206
+Added Component: Designator=R1(RES_1206)
+Added Component: Designator=R2(RES_1206)
+Added Component: Designator=R3(RES_1206)
+Add Component: Footprint Not Found RES_1206
+Add Component: Footprint Not Found RES_1206
+Add Component: Footprint Not Found RES_1206
+Added Component: Designator=S1(SEN0140)
+Added Component: Designator=U2(soic-8)
+Add component (AddParameter): Name = "Access Time"; Value = "900ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Access Time-Max"; Value = "900ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "EEPROM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/26870/24lc512-i-sm-26870738.pdf?src-supplier=IIIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/26870/24lc512-i-sm-26870738.pdf?src-supplier=IIIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/29294/160414-da-01-en-eeprom-24lc512-i-sm-microchip-29294348.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/29294/160414-da-01-en-eeprom-24lc512-i-sm-microchip-29294348.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/17651/21754m-17651369.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/17651/21754m-17651369.pdf?src-supplier=Avnet+Europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/1155/1688094-1155274.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/1155/1688094-1155274.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/1155/1688094-1155275.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/1155/1688094-1155275.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/3184/21754m-3184956.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/3184/21754m-3184956.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.ciiva.com/16921/70045251-16921949.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.ciiva.com/16921/70045251-16921949.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.ciiva.com/16304/filehandler-aspxddocname-en546203-16304574.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.ciiva.com/16304/filehandler-aspxddocname-en546203-16304574.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Density"; Value = "512Kb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designed by"; Value = "Ahmet Azboy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "400kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.88mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "5.21mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "24LC512-I/SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Frequency"; Value = "400kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Size"; Value = "512Kb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Type"; Value = "EEPROM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "2.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "5mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Organization"; Value = "64KX8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "90=1,48900 (GBP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Programming Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "53"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "8895724"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Current"; Value = "5mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage-Nom"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "5.28mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Write Cycle Time-Max (tWC)"; Value = "5ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Write Protection"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "I2C,Serial,2-Wire"; VariantName = "[No Variations]"
+Added Component: Designator=U?(L-80)
+Add component (AddParameter): Name = "Designed By"; Value = "Ahmet Azboy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Quetcel L80"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin B1-1
+Add Pin To Net: Unknown Pin: Pin B1-2
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Added Pin To Net: NetName=TX_GPS Pin=CON1-1
+Added Pin To Net: NetName=RX_GPS Pin=CON1-2
+Added Pin To Net: NetName=SCL Pin=CON1-3
+Added Pin To Net: NetName=SDA Pin=CON1-4
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Added Pin To Net: NetName=+12V_D Pin=D2-A
+Added Pin To Net: NetName=+12V Pin=D2-C
+Added Pin To Net: NetName=NetR1_1 Pin=IC1-1
+Added Pin To Net: NetName=+12V Pin=IC1-3
+Added Pin To Net: NetName=+12V_D Pin=KLM1-1
+Added Pin To Net: NetName=GND Pin=KLM1-2
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=SCL Pin=R2-1
+Added Pin To Net: NetName=+3V3 Pin=R2-2
+Added Pin To Net: NetName=SDA Pin=R3-1
+Added Pin To Net: NetName=+3V3 Pin=R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Added Pin To Net: NetName=+3V3 Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=SCL Pin=S1-3
+Added Pin To Net: NetName=SDA Pin=S1-4
+Add Pin To Net: Unknown Pin: Pin S2-2
+Add Pin To Net: Unknown Pin: Pin S2-3
+Add Pin To Net: Unknown Pin: Pin S2-4
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=SDA Pin=U2-5
+Added Pin To Net: NetName=SCL Pin=U2-6
+Added Pin To Net: NetName=+3V3 Pin=U2-8
+Added Pin To Net: NetName=TX_GPS Pin=U?-1
+Added Pin To Net: NetName=RX_GPS Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=+3V3 Pin=U?-4
+Added Pin To Net: NetName=NetB1_1 Pin=U?-5
+Added Pin To Net: NetName=Led_Gps Pin=U?-6
+Added Pin To Net: NetName=NetR5_2 Pin=U?-10
+Added Pin To Net: NetName=GND Pin=U?-12
+Add Class Member: Failed to add class member : Component B1 3V Battery
+Add Class Member: Failed to add class member : Component C1 100nF
+Add Class Member: Failed to add class member : Component C2 4.7uF
+Add Class Member: Failed to add class member : Component C3 10uF
+Add Class Member: Failed to add class member : Component C4 100nF
+Added Member To Class: ClassName=Sheet2 Member=Component CON1 4 PIN CON
+Add Class Member: Failed to add class member : Component D1 S3M Diyot
+Added Member To Class: ClassName=Sheet2 Member=Component D2 B34 Schotky
+Added Member To Class: ClassName=Sheet2 Member=Component IC1 LM317DCYR
+Added Member To Class: ClassName=Sheet2 Member=Component KLM1 2 Pin Klemens
+Add Class Member: Failed to add class member : Component L1 Led Green
+Added Member To Class: ClassName=Sheet2 Member=Component R1 RES 820R 1206
+Added Member To Class: ClassName=Sheet2 Member=Component R2 RES 4.7K 1206
+Added Member To Class: ClassName=Sheet2 Member=Component R3 RES 4.7K 1206
+Add Class Member: Failed to add class member : Component R4 4.7K
+Add Class Member: Failed to add class member : Component R5 4.7K
+Add Class Member: Failed to add class member : Component R6 220R
+Added Member To Class: ClassName=Sheet2 Member=Component S1 SEN0140
+Add Class Member: Failed to add class member : Component S2 MPL3115A2-TH
+Added Member To Class: ClassName=Sheet2 Member=Component U2 24LC512
+Added Member To Class: ClassName=Sheet2 Member=Component U? L80 GPS

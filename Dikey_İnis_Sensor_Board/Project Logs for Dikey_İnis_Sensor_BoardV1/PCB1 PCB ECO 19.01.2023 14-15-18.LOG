@@ -1,0 +1,143 @@
+Added Component: Designator=B1(CR2032)
+Added Component: Designator=C1(CAP_805)
+Added Component: Designator=C2(CAP_805)
+Added Component: Designator=C3(CAP_805)
+Added Component: Designator=C4(CAP_805)
+Added Component: Designator=C5(CAP_805)
+Added Component: Designator=C6(CAP_805)
+Added Component: Designator=CON1(2 pin konnektor)
+Added Component: Designator=CON2(2 pin konnektor)
+Added Component: Designator=CON3(2 pin konnektor)
+Added Component: Designator=CON4(2 pin konnektor)
+Added Component: Designator=D2(DIOM5226X240N)
+Added Component: Designator=D(DO214AA)
+Add component (AddParameter): Name = "Case/Package"; Value = "DO214AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "1000V"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(SOT230P700X180-4N)
+Added Component: Designator=KLM1(5.08mm-2 pin)
+Added Component: Designator=L1(Led 1206)
+Added Component: Designator=L2(Led 1206)
+Added Component: Designator=R1(RES_1206)
+Added Component: Designator=R2(RES_1206)
+Added Component: Designator=R3(RES_1206)
+Added Component: Designator=R4(RES_1206)
+Added Component: Designator=R5(RES_1206)
+Added Component: Designator=R6(RES_1206)
+Added Component: Designator=R7(RES_1206)
+Added Component: Designator=R8(RES_1206)
+Added Component: Designator=S1(SEN0140)
+Added Component: Designator=U1(MPL3115A2)
+Added Component: Designator=U2(L-80)
+Add component (AddParameter): Name = "Designed By"; Value = "Ahmet Azboy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Quetcel L80"; VariantName = "[No Variations]"
+Added Component: Designator=U3(HC-06)
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=GND Pin=B1-2
+Added Pin To Net: NetName=NetB1_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=+3V3 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=+3V3 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=NetB1_1 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+12V Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=3V3 Pin=C6-2
+Added Pin To Net: NetName=TX_GPS Pin=CON1-1
+Added Pin To Net: NetName=RX_GPS Pin=CON1-2
+Added Pin To Net: NetName=SCL Pin=CON2-1
+Added Pin To Net: NetName=SDA Pin=CON2-2
+Added Pin To Net: NetName=RX_BTH Pin=CON3-1
+Added Pin To Net: NetName=TX_BTH Pin=CON3-2
+Added Pin To Net: NetName=NetCON4_1 Pin=CON4-1
+Added Pin To Net: NetName=NetCON4_2 Pin=CON4-2
+Added Pin To Net: NetName=+12V_D Pin=D2-A
+Added Pin To Net: NetName=+12V Pin=D2-C
+Added Pin To Net: NetName=+3V3 Pin=D-1
+Added Pin To Net: NetName=NetR1_1 Pin=IC1-1
+Added Pin To Net: NetName=3V3 Pin=IC1-2
+Added Pin To Net: NetName=+12V Pin=IC1-3
+Added Pin To Net: NetName=3V3 Pin=IC1-4
+Added Pin To Net: NetName=+12V_D Pin=KLM1-1
+Added Pin To Net: NetName=GND Pin=KLM1-2
+Added Pin To Net: NetName=L_B Pin=L1-1
+Added Pin To Net: NetName=GND Pin=L1-2
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=GND Pin=L2-2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=SCL Pin=R2-1
+Added Pin To Net: NetName=+3V3 Pin=R2-2
+Added Pin To Net: NetName=SDA Pin=R3-1
+Added Pin To Net: NetName=+3V3 Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=NetB1_1 Pin=R5-2
+Added Pin To Net: NetName=+3V3 Pin=R6-1
+Added Pin To Net: NetName=NetR1_1 Pin=R7-1
+Added Pin To Net: NetName=3V3 Pin=R7-2
+Added Pin To Net: NetName=Led_Gps Pin=R8-1
+Added Pin To Net: NetName=NetL2_1 Pin=R8-2
+Added Pin To Net: NetName=+3V3 Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=SCL Pin=S1-3
+Added Pin To Net: NetName=SDA Pin=S1-4
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=+3V3 Pin=U1-2
+Added Pin To Net: NetName=SCL Pin=U1-3
+Added Pin To Net: NetName=SDA Pin=U1-4
+Added Pin To Net: NetName=NetCON4_2 Pin=U1-5
+Added Pin To Net: NetName=NetCON4_1 Pin=U1-6
+Added Pin To Net: NetName=RX_GPS Pin=U2-1
+Added Pin To Net: NetName=TX_GPS Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=+3V3 Pin=U2-4
+Added Pin To Net: NetName=NetB1_1 Pin=U2-5
+Added Pin To Net: NetName=Led_Gps Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-12
+Added Pin To Net: NetName=RX_BTH Pin=U3-1
+Added Pin To Net: NetName=TX_BTH Pin=U3-2
+Added Pin To Net: NetName=+3V3 Pin=U3-12
+Added Pin To Net: NetName=GND Pin=U3-13
+Added Pin To Net: NetName=GND Pin=U3-21
+Added Pin To Net: NetName=L_B Pin=U3-24
+Added Pin To Net: NetName=NetD_2 Pin=D-2
+Added Pin To Net: NetName=NetD_2 Pin=R5-1
+Added Net: Name=NetD_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U3-34
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=U2-10
+Added Net: Name=NetR6_2
+Added Member To Class: ClassName=Sheet2 Member=Component B1 CR2032 Battery Holder
+Added Member To Class: ClassName=Sheet2 Member=Component C1 CAP 100nF 0805
+Added Member To Class: ClassName=Sheet2 Member=Component C2 CAP 100nF 0805
+Added Member To Class: ClassName=Sheet2 Member=Component C3 CAP 10uF 0805
+Added Member To Class: ClassName=Sheet2 Member=Component C4 CAP 4.7uF
+Added Member To Class: ClassName=Sheet2 Member=Component C5 CAP 0.1uF
+Added Member To Class: ClassName=Sheet2 Member=Component C6 CAP 1uF
+Added Member To Class: ClassName=Sheet2 Member=Component CON1 2 Pin Jst Konnektör
+Added Member To Class: ClassName=Sheet2 Member=Component CON2 2 Pin Jst Konnektör
+Added Member To Class: ClassName=Sheet2 Member=Component CON3 2 Pin Jst Konnektör
+Added Member To Class: ClassName=Sheet2 Member=Component CON4 2 Pin Jst Konnektör
+Added Member To Class: ClassName=Sheet2 Member=Component D2 B34 Schotky
+Added Member To Class: ClassName=Sheet2 Member=Component D S3M Diyot
+Added Member To Class: ClassName=Sheet2 Member=Component IC1 LM317DCYR
+Added Member To Class: ClassName=Sheet2 Member=Component KLM1 2 Pin Klemens
+Added Member To Class: ClassName=Sheet2 Member=Component L1 Led Green
+Added Member To Class: ClassName=Sheet2 Member=Component L2 Led Red
+Added Member To Class: ClassName=Sheet2 Member=Component R1 RES 820R 1206
+Added Member To Class: ClassName=Sheet2 Member=Component R2 RES 4.7K 1206
+Added Member To Class: ClassName=Sheet2 Member=Component R3 RES 4.7K 1206
+Added Member To Class: ClassName=Sheet2 Member=Component R4 RES 4.7K 1206
+Added Member To Class: ClassName=Sheet2 Member=Component R5 RES 4.7K 1206
+Added Member To Class: ClassName=Sheet2 Member=Component R6 RES 4.7K 1206
+Added Member To Class: ClassName=Sheet2 Member=Component R7 RES 820R 1206
+Added Member To Class: ClassName=Sheet2 Member=Component R8 RES 220R 1206
+Added Member To Class: ClassName=Sheet2 Member=Component S1 SEN0140
+Added Member To Class: ClassName=Sheet2 Member=Component U1 MPL3115A2-TH
+Added Member To Class: ClassName=Sheet2 Member=Component U2 L80 GPS
+Added Member To Class: ClassName=Sheet2 Member=Component U3 HC-06

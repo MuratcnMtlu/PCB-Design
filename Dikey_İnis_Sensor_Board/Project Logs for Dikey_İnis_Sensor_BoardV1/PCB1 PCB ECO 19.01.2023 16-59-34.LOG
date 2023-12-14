@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=TX_BTH Pin=CON3-1
+Removed Pin From Net: NetName=RX_BTH Pin=CON3-2
+Removed Pin From Net: NetName=+3V3 Pin=IC1-2
+Removed Pin From Net: NetName=+3V3 Pin=IC1-4
+Removed Pin From Net: NetName=GND Pin=KLM1-1
+Removed Pin From Net: NetName=+12V_D Pin=KLM1-2
+Removed Pin From Net: NetName=L_B Pin=L1-1
+Removed Pin From Net: NetName=+3V3 Pin=R7-2
+Added Component: Designator=CON4(2 pin konnektor)
+Added Component: Designator=R9(RES_1206)
+Added Pin To Net: NetName=RX_BTH Pin=CON3-1
+Added Pin To Net: NetName=TX_BTH Pin=CON3-2
+Added Pin To Net: NetName=NetCON4_1 Pin=CON4-1
+Added Pin To Net: NetName=NetCON4_2 Pin=CON4-2
+Added Pin To Net: NetName=3V3 Pin=IC1-2
+Added Pin To Net: NetName=3V3 Pin=IC1-4
+Added Pin To Net: NetName=+12V_D Pin=KLM1-1
+Added Pin To Net: NetName=GND Pin=KLM1-2
+Added Pin To Net: NetName=3V3 Pin=R7-2
+Added Pin To Net: NetName=L_B Pin=R9-1
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=R9-2
+Added Net: Name=NetL1_1
+Added Member To Class: ClassName=Sheet2 Member=Component CON4 2 Pin Jst Konnektör
+Added Member To Class: ClassName=Sheet2 Member=Component R9 RES 220R 1206
