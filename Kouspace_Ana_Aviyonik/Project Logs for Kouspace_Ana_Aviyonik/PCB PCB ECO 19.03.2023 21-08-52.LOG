@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=+12V Pin=*-1
+Removed Pin From Net: NetName=+12V Pin=*-2
+Removed Pin From Net: NetName=GND Pin=Designator159-1
+Removed Pin From Net: NetName=NetR1_1 Pin=Designator159-2
+Removed Pin From Net: NetName=+3V3 Pin=Designator160-1
+Removed Pin From Net: NetName=NetR1_1 Pin=Designator160-2
+Removed Pin From Net: NetName=NetKLM1_1 Pin=U1-3
+Added Component: Designator=D2(DO214AA)
+Add component (AddParameter): Name = "Case/Package"; Value = "DO214AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "1000V"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES_1206)
+Added Component: Designator=R3(RES_1206)
+Add Pin To Net: Unknown Pin: Pin Atiny_PROG-1
+Add Pin To Net: Unknown Pin: Pin Atiny_PROG-2
+Add Pin To Net: Unknown Pin: Pin Atiny_PROG-3
+Add Pin To Net: Unknown Pin: Pin Atiny_PROG-4
+Add Pin To Net: Unknown Pin: Pin Atiny_PROG-5
+Added Pin To Net: NetName=+12V Pin=D2-1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetKLM1_1 Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetKLM1_1 Pin=R3-2
+Added Pin To Net: NetName=NetR1_1 Pin=U1-3
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=*-2
+Added Pin To Net: NetName=Net*_1 Pin=D2-2
+Added Net: Name=Net*_1
+Add Net: Net with name "Net*_4" already exists
+Added Member To Class: ClassName=Motor_Kontrol Member=Component * STL8DN10FL3
+Add Class Member: Failed to add class member : Component Atiny_PROG SMD JST 5P
+Added Member To Class: ClassName=Motor_Kontrol Member=Component D2 S3M Diyot
+Added Member To Class: ClassName=Power Member=Component R1 Res
+Added Member To Class: ClassName=Power Member=Component R3 Res
