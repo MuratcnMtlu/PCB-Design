@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Atmega328P.PrjPcb]
+   Generated File[PCB3.TXT]
+   Generated File[PCB3.LDP]
+   Generated File[PCB3.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 21:44:07 On 26.01.2023

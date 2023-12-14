@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=MOSI Pin=CON1-3
+Removed Pin From Net: NetName=SCK Pin=CON1-5
+Removed Pin From Net: NetName=NetCON3_2 Pin=CON3-1
+Removed Pin From Net: NetName=NetCON3_1 Pin=CON3-2
+Removed Pin From Net: NetName=NetCON3_1 Pin=Designator138-1
+Removed Pin From Net: NetName=NetCON3_1 Pin=Designator138-2
+Removed Pin From Net: NetName=NetCON3_2 Pin=Designator139-1
+Removed Pin From Net: NetName=NetCON3_2 Pin=Designator139-2
+Added Pin To Net: NetName=SCK Pin=CON1-3
+Added Pin To Net: NetName=MOSI Pin=CON1-5
+Added Pin To Net: NetName=NetCON3_1 Pin=CON3-1
+Added Pin To Net: NetName=NetCON3_2 Pin=CON3-2
+Added Member To Class: ClassName=Sheet3 Member=Component C2 1uF
